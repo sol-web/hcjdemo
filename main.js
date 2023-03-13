@@ -13,8 +13,8 @@ function yellow() {
 function reset() {
   document.body.style.backgroundColor = 'linen'
 }
-function reset() {
-  document.body.style.backgroundColor = 'whit'
+function white() {
+  document.body.style.backgroundColor = 'white'
 }
 
 function showhtml() {
