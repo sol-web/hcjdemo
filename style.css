@@ -82,3 +82,11 @@ button:hover {
   color: darkslategrey;
   background-color: deepskyblue;
 }
+
+footer {
+  padding: 10px;
+  margin-top: 10px;
+  color: white;
+  background-color: black;
+  text-align: center;
+}

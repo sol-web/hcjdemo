@@ -11,7 +11,7 @@ function yellow() {
   document.body.style.backgroundColor = 'yellow'
 }
 function reset() {
-  document.body.style.backgroundColor = 'linen'
+  document.body.style.backgroundColor = 'rgb(190, 232, 255)'
 }
 function white() {
   document.body.style.backgroundColor = 'white'
